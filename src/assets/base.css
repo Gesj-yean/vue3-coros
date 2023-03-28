@@ -1,0 +1,15 @@
+:root {
+  --color-text: #ffffff;
+  --color-text-secondary: #a5a9b1;
+
+  --color-background:#242b40;
+  --color-background-soft: #1d253a;
+  --color-background-hard: #181e30;
+
+  --color-1: rgb(17, 153, 238);
+  --color-2: rgb(0, 255, 238);
+  --color-3: rgb(0, 255, 68);
+  --color-4: rgb(255, 204, 0);
+  --color-5: rgb(255, 153, 0);
+  --color-6: rgb(255, 0, 85);
+}
